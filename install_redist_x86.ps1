@@ -1,0 +1,1 @@
+﻿Start-Process -Wait -FilePath "C:\AdminTools\vcredist_x86.exe" -ArgumentList "/S,/v,/qn" -PassThru

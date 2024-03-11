@@ -1,0 +1,1 @@
+﻿gwmi -Class Win32_NetworkLoginProfile -ComputerName ZHTVWK20538Q3
